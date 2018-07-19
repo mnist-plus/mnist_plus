@@ -1,0 +1,6 @@
+model_checkpoint_path: "mnist_plus-7800"
+all_model_checkpoint_paths: "mnist_plus-4680"
+all_model_checkpoint_paths: "mnist_plus-5460"
+all_model_checkpoint_paths: "mnist_plus-6240"
+all_model_checkpoint_paths: "mnist_plus-7020"
+all_model_checkpoint_paths: "mnist_plus-7800"
